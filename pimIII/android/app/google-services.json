@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378621938060",
+    "project_id": "pimiii-dcc44",
+    "storage_bucket": "pimiii-dcc44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378621938060:android:a1c3f8701023e556556ea9",
+        "android_client_info": {
+          "package_name": "com.example.pimiii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtFSAVf7i32qHQriTSc1xHyUbrX6GtEZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
